@@ -1,0 +1,18 @@
+[
+    {
+        "id": "c01",
+        "name": "Long Sleave shirt",
+        "price": 490
+    },
+    {
+        "id": "c02",
+        "name": "Short Sleave shirt",
+        "price": 900 
+    },
+    {
+        "id": "c03",
+        "name": "hat black",
+        "price": 1000 
+    }
+
+]

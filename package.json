@@ -1,0 +1,29 @@
+{
+  "name": "nodejs-ep-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --experimental-json-modules app",
+    "start": "node --experimental-json-modules app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "esm": "^3.2.25",
+    "express": "^4.18.2",
+    "express-joi-validation": "^5.0.1",
+    "humps": "^2.0.1",
+    "joi": "^17.12.1",
+    "mongoose": "^8.1.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
